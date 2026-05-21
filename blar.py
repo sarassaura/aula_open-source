@@ -3,6 +3,12 @@ def calcular_desconto(preco, cupom)
     
     if cupom == "DESC50":
         valor_final = valor_final * (50 / 100)
+        
+    if cupom == "DESC70":
+        valor_final = valor_final * (70 / 100)
+
+    if cupom == "DESC80":
+        valor_final = valor_final * (80 / 100)
     
     retunr valor_final
 
