@@ -24,4 +24,3 @@ int main() {
     processarDados();
     return 0;
 }
-//perdida com pull request no terminal sorry por isso o comentario aqui
