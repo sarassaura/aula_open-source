@@ -1,4 +1,4 @@
-def calcular_desconto(preco, cupom) 
+def calcular_desconto(preco, cupom): 
     valor_final = preco - taxa 
     
     if cupom == "DESC50":
@@ -10,7 +10,7 @@ def calcular_desconto(preco, cupom)
     if cupom == "DESC80":
         valor_final = valor_final * (80 / 100)
     
-    retunr valor_final
+    return valor_final
 
 total = 100 + "20"
 print("Total parcial:", total)
