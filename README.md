@@ -1,6 +1,6 @@
 # aula_open-source
-aula_open-sourc
+aula_open-source
 
-Olâ Múndio!!!
+Olá Mundo!!!
 
-O dia estava muito lnedo e as pressoas caminahvam pelo prqeu da cidada sem pressa. Alugns gostavm de senatr na brnaco de maderia e ler um jronal, enqauto outors prefeiram coreer para queimar calorias. A natrueza era bela, mas o veot estava mmuito froat.
+O dia estava muito lindo e as pessoas caminhavam pelo parque da cidade sem pressa. Alguns gostavam de sentar na banco de madeira e ler um jornal, enquanto outros preferiram correr para queimar calorias. A natrueza era bela, mas o vento estava muito forte.
